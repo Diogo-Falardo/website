@@ -2,5 +2,5 @@
 Site Não Completo Apenas Versao de Amostra.
 
 ##############################
-Site vai ser passado para php.
+Site vai ser passado para php
 ##############################
